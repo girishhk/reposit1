@@ -1,10 +1,1 @@
- Volume in drive E has no label.
- Volume Serial Number is 388D-4414
-
- Directory of E:\GIT_REP
-
-08/13/17  05:52 PM    <DIR>          .
-08/13/17  05:52 PM    <DIR>          ..
-08/13/17  05:52 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  45,094,019,072 bytes free
+girish GIT pracitse
